@@ -4,4 +4,4 @@ npm install @openzeppelin/contracts
 +
 https://github.com/poanetwork/solidity-flattener
 
--> One file Secure Token
+-> One file Token
